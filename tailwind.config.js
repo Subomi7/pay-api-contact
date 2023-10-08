@@ -15,7 +15,7 @@ module.exports = {
         idan: '#1f2c38',
       },
     },
-    fontfamily: {
+    fontFamily: {
       Serif: ['dm serif display, sans-serif'],
       Sans: ['Public sans, sans-serif'],
     },
